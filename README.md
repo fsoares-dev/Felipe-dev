@@ -50,7 +50,3 @@
 - 🔍 Sempre aprendendo e explorando novas tecnologias
 
 ---
-
-<p align="center">
-  Feito com 💙 por Felipe Soares
-</p>
